@@ -42,3 +42,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 34 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #19: Free plan: 2,000 words a week, then paid | 1,782 | provisional | https://github.com/kamal0808/phusphus/pull/16 |
 | 35 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #21: Bug: short commands get answered instead of typed | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/21 |
 | 36 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #21: Bug: short commands get answered instead of typed | 792 | provisional | https://github.com/kamal0808/phusphus/pull/17 |
+| 37 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #23: Follow the mic: switch when the input changes, warn on silence | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/23 |
+| 38 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #23: Follow the mic: switch when the input changes, warn on silence | 792 | provisional | https://github.com/kamal0808/phusphus/pull/18 |
