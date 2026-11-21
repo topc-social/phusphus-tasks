@@ -40,3 +40,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 32 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #18: What could Phusphus earn? Cost per user and a revenue forecast | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/15 |
 | 33 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #19: Free plan: 2,000 words a week, then paid | 18 | provisional | https://github.com/topc-social/phusphus-tasks/issues/19 |
 | 34 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #19: Free plan: 2,000 words a week, then paid | 1,782 | provisional | https://github.com/kamal0808/phusphus/pull/16 |
+| 35 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #21: Bug: short commands get answered instead of typed | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/21 |
+| 36 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #21: Bug: short commands get answered instead of typed | 792 | provisional | https://github.com/kamal0808/phusphus/pull/17 |
