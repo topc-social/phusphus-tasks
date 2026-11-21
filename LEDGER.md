@@ -50,3 +50,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 42 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #24: A Phusphus window: choose where it listens (Mac mic or watch) | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/19 |
 | 43 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #22: Landing page with a download and install guide, like Profiley's | 18 | provisional | https://github.com/topc-social/phusphus-tasks/issues/22 |
 | 44 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #22: Landing page with a download and install guide, like Profiley's | 1,782 | provisional | https://github.com/kamal0808/phusphus/pull/20 |
+| 45 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #26: Dictate from an Android phone into the Mac | 12 | provisional | https://github.com/topc-social/phusphus-tasks/issues/26 |
+| 46 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #26: Dictate from an Android phone into the Mac | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/22 |
