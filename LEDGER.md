@@ -28,3 +28,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 20 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #14: Faster, words show while you talk, spoken lists become numbered | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/10 |
 | 21 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #15: Run the Phusphus server on Cloudflare, not a Mac at home | 27 | provisional | https://github.com/topc-social/phusphus-tasks/issues/15 |
 | 22 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #15: Run the Phusphus server on Cloudflare, not a Mac at home | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/12 |
+| 23 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #11: Get proper nouns right every time: Sayan, not Cheyenne, measured | 27 | provisional | https://github.com/topc-social/phusphus-tasks/issues/11 |
+| 24 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #11: Get proper nouns right every time: Sayan, not Cheyenne, measured | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/8 |
