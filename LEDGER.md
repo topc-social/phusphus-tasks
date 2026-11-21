@@ -56,3 +56,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 48 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #27: Lock the phone, hold right ⌘ on the Mac, the phone listens | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/23 |
 | 49 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #28: Phone ready mode: stop searching for the Mac every few seconds | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/28 |
 | 50 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #28: Phone ready mode: stop searching for the Mac every few seconds | 792 | provisional | https://github.com/kamal0808/phusphus/pull/24 |
+| 51 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #29: Security: only paired phones and watches can talk to the Mac | 27 | provisional | https://github.com/topc-social/phusphus-tasks/issues/29 |
+| 52 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #29: Security: only paired phones and watches can talk to the Mac | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/25 |
