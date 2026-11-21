@@ -54,3 +54,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 46 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #26: Dictate from an Android phone into the Mac | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/22 |
 | 47 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #27: Lock the phone, hold right ⌘ on the Mac, the phone listens | 27 | provisional | https://github.com/topc-social/phusphus-tasks/issues/27 |
 | 48 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #27: Lock the phone, hold right ⌘ on the Mac, the phone listens | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/23 |
+| 49 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #28: Phone ready mode: stop searching for the Mac every few seconds | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/28 |
+| 50 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #28: Phone ready mode: stop searching for the Mac every few seconds | 792 | provisional | https://github.com/kamal0808/phusphus/pull/24 |
