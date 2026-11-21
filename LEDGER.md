@@ -12,3 +12,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 4 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #3: Waitlist page for the stranger test | 1,782 | provisional | https://github.com/kamal0808/phusphus/pull/1 |
 | 5 | 2026-11-21 | Kamal Khatwani | Idea (1%) for #6: Thin Mac app v0: hold a key, talk, text appears | 27 | provisional | https://github.com/topc-social/phusphus-tasks/issues/6 |
 | 6 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #6: Thin Mac app v0: hold a key, talk, text appears | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/3 |
+| 7 | 2026-11-21 | Kamal Khatwani | Idea (1%) for #5: Compare cloud speech-to-text services for Phusphus | 60 | provisional | https://github.com/topc-social/phusphus-tasks/issues/5 |
+| 8 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #5: Compare cloud speech-to-text services for Phusphus | 5,940 | provisional | https://github.com/kamal0808/phusphus/pull/2 |
