@@ -60,3 +60,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 52 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #29: Security: only paired phones and watches can talk to the Mac | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/25 |
 | 53 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #30: Redesign every surface: menu bar, Dock menu, settings, pill, first run | 40 | provisional | https://github.com/topc-social/phusphus-tasks/issues/30 |
 | 54 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #30: Redesign every surface: menu bar, Dock menu, settings, pill, first run | 3,960 | provisional | https://github.com/kamal0808/phusphus/pull/26 |
+| 55 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #31: Make every setting real: shortcut, writing style, history, and more | 60 | provisional | https://github.com/topc-social/phusphus-tasks/issues/31 |
+| 56 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #31: Make every setting real: shortcut, writing style, history, and more | 5,940 | provisional | https://github.com/kamal0808/phusphus/pull/27 |
