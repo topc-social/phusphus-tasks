@@ -18,3 +18,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 10 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #7: What do dictation users actually complain about? | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/4 |
 | 11 | 2026-11-21 | Kamal Khatwani | Idea (1%) for #9: Test fully on-device dictation (Apple speech + on-device AI) | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/9 |
 | 12 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #9: Test fully on-device dictation (Apple speech + on-device AI) | 792 | provisional | https://github.com/topc-social/phusphus-tasks/issues/9 |
+| 13 | 2026-11-21 | Kamal Khatwani | Idea (1%) for #8: Find 10 people who left Wispr Flow over privacy or bloat | 18 | provisional | https://github.com/topc-social/phusphus-tasks/issues/8 |
+| 14 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #8: Find 10 people who left Wispr Flow over privacy or bloat | 1,782 | provisional | https://github.com/kamal0808/phusphus/pull/5 |
