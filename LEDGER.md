@@ -82,3 +82,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 74 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #43: Cleanup never types the AI's own notes or second thoughts | 792 | provisional | https://github.com/kamal0808/phusphus/pull/39 |
 | 75 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #44: Release Phusphus v0.9: floating button, Record, mic fixes | 4 | provisional | https://github.com/topc-social/phusphus-tasks/issues/44 |
 | 76 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #44: Release Phusphus v0.9: floating button, Record, mic fixes | 346 | provisional | https://github.com/kamal0808/phusphus/pull/40 |
+| 77 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #45: Pill says "tap its screen" when the phone is asleep | 4 | provisional | https://github.com/topc-social/phusphus-tasks/issues/45 |
+| 78 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #45: Pill says "tap its screen" when the phone is asleep | 346 | provisional | https://github.com/kamal0808/phusphus/pull/41 |
