@@ -80,3 +80,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 72 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #42: Record a conversation or call, get the transcript with who said what | 3,960 | provisional | https://github.com/kamal0808/phusphus/pull/38 |
 | 73 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #43: Cleanup never types the AI's own notes or second thoughts | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/43 |
 | 74 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #43: Cleanup never types the AI's own notes or second thoughts | 792 | provisional | https://github.com/kamal0808/phusphus/pull/39 |
+| 75 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #44: Release Phusphus v0.9: floating button, Record, mic fixes | 4 | provisional | https://github.com/topc-social/phusphus-tasks/issues/44 |
+| 76 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #44: Release Phusphus v0.9: floating button, Record, mic fixes | 346 | provisional | https://github.com/kamal0808/phusphus/pull/40 |
