@@ -88,3 +88,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 80 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #46: First tester: Sayan gets Phusphus v0.9.1 with no word cap | 693 | provisional | https://github.com/kamal0808/phusphus/pull/43 |
 | 81 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #47: Unlocking the phone reconnects it; a dead phone line falls back to the Mac mic | 12 | provisional | https://github.com/topc-social/phusphus-tasks/issues/47 |
 | 82 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #47: Unlocking the phone reconnects it; a dead phone line falls back to the Mac mic | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/44 |
+| 83 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #49: Phusphus runs on macOS 14 and 15, and on Intel Macs | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/49 |
+| 84 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #49: Phusphus runs on macOS 14 and 15, and on Intel Macs | 792 | provisional | https://github.com/kamal0808/phusphus/pull/45 |
