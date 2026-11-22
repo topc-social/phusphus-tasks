@@ -90,3 +90,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 82 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #47: Unlocking the phone reconnects it; a dead phone line falls back to the Mac mic | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/44 |
 | 83 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #49: Phusphus runs on macOS 14 and 15, and on Intel Macs | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/49 |
 | 84 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #49: Phusphus runs on macOS 14 and 15, and on Intel Macs | 792 | provisional | https://github.com/kamal0808/phusphus/pull/45 |
+| 85 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #50: See where users get stuck, and hear about failures: analytics + alerts | 27 | provisional | https://github.com/topc-social/phusphus-tasks/issues/50 |
+| 86 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #50: See where users get stuck, and hear about failures: analytics + alerts | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/48 |
