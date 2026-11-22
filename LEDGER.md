@@ -64,3 +64,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 56 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #31: Make every setting real: shortcut, writing style, history, and more | 5,940 | provisional | https://github.com/kamal0808/phusphus/pull/27 |
 | 57 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #32: Phone mic reconnects in seconds; Mac mic stops going silent | 12 | provisional | https://github.com/topc-social/phusphus-tasks/issues/32 |
 | 58 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #32: Phone mic reconnects in seconds; Mac mic stops going silent | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/29 |
+| 59 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #33: Choose your mics in order: phone, watch, AirPods, Mac | 27 | provisional | https://github.com/topc-social/phusphus-tasks/issues/33 |
+| 60 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #33: Choose your mics in order: phone, watch, AirPods, Mac | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/30 |
