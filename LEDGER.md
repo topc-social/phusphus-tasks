@@ -70,3 +70,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 62 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #37: Hold or tap right ⌘: both work, no setting | 792 | provisional | https://github.com/kamal0808/phusphus/pull/32 |
 | 63 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #34: Phusphus froze on right ⌘: find the cause and fix it | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/34 |
 | 64 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #34: Phusphus froze on right ⌘: find the cause and fix it | 792 | provisional | https://github.com/kamal0808/phusphus/pull/33 |
+| 65 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #38: Phusphus v0.8 out, and the Mac app updates itself from now on | 27 | provisional | https://github.com/topc-social/phusphus-tasks/issues/38 |
+| 66 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #38: Phusphus v0.8 out, and the Mac app updates itself from now on | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/34 |
