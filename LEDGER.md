@@ -94,3 +94,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 86 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #50: See where users get stuck, and hear about failures: analytics + alerts | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/48 |
 | 87 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #51: Release v0.10: usage events, and updates install themselves | 4 | provisional | https://github.com/topc-social/phusphus-tasks/issues/51 |
 | 88 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #51: Release v0.10: usage events, and updates install themselves | 346 | provisional | https://github.com/kamal0808/phusphus/pull/49 |
+| 89 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #53: Fill the Phusphus project page on Ideato | 6 | provisional | https://github.com/topc-social/phusphus-tasks/issues/53 |
+| 90 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #53: Fill the Phusphus project page on Ideato | 544 | provisional | https://github.com/topc-social/phusphus-tasks/issues/53 |
