@@ -106,3 +106,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 98 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #56: Autosave the dictation in progress, recover it after a quit | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/56 |
 | 99 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #57: A second shortcut key (e.g. right ⌘ and Fn) | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/57 |
 | 100 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #57: A second shortcut key (e.g. right ⌘ and Fn) | 792 | provisional | https://github.com/kamal0808/phusphus/pull/57 |
+| 101 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #58: Stream drops mid-dictation, so everything said after the drop is lost | 12 | provisional | https://github.com/topc-social/phusphus-tasks/issues/58 |
+| 102 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #58: Stream drops mid-dictation, so everything said after the drop is lost | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/58 |
