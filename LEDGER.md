@@ -116,3 +116,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 108 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #66: Release v0.12 | 346 | provisional | https://github.com/kamal0808/phusphus/pull/61 |
 | 109 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #67: Make the code private: downloads and updates served from phusphus.topc.social | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/67 |
 | 110 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #67: Make the code private: downloads and updates served from phusphus.topc.social | 792 | provisional | https://github.com/topc-social/phusphus-tasks/issues/67 |
+| 111 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #68: Mics plugged in after launch don't show in the floating button's list | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/68 |
+| 112 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #68: Mics plugged in after launch don't show in the floating button's list | 792 | provisional | https://github.com/topc-social/phusphus-tasks/issues/68 |
