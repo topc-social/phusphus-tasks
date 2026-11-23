@@ -112,3 +112,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 104 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #59: Release v0.11 | 346 | provisional | https://github.com/kamal0808/phusphus/pull/59 |
 | 105 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #60: Floating bar: hints jump the bar down; nowhere to grab it | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/60 |
 | 106 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #60: Floating bar: hints jump the bar down; nowhere to grab it | 792 | provisional | https://github.com/kamal0808/phusphus/pull/60 |
+| 107 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #66: Release v0.12 | 4 | provisional | https://github.com/topc-social/phusphus-tasks/issues/66 |
+| 108 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #66: Release v0.12 | 346 | provisional | https://github.com/kamal0808/phusphus/pull/61 |
