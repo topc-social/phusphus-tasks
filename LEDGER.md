@@ -108,3 +108,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 100 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #57: A second shortcut key (e.g. right ⌘ and Fn) | 792 | provisional | https://github.com/kamal0808/phusphus/pull/57 |
 | 101 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #58: Stream drops mid-dictation, so everything said after the drop is lost | 12 | provisional | https://github.com/topc-social/phusphus-tasks/issues/58 |
 | 102 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #58: Stream drops mid-dictation, so everything said after the drop is lost | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/58 |
+| 103 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #59: Release v0.11 | 4 | provisional | https://github.com/topc-social/phusphus-tasks/issues/59 |
+| 104 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #59: Release v0.11 | 346 | provisional | https://github.com/kamal0808/phusphus/pull/59 |
