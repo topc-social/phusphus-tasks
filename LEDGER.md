@@ -102,3 +102,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 94 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #52: Floating button: hover hints on talk, record and mic | 346 | provisional | https://github.com/kamal0808/phusphus/pull/53 |
 | 95 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #55: Long dictations lose their last words | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/55 |
 | 96 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #55: Long dictations lose their last words | 792 | provisional | https://github.com/kamal0808/phusphus/pull/55 |
+| 97 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #56: Autosave the dictation in progress, recover it after a quit | 12 | provisional | https://github.com/topc-social/phusphus-tasks/issues/56 |
+| 98 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #56: Autosave the dictation in progress, recover it after a quit | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/56 |
