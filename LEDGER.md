@@ -100,3 +100,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 92 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #54: Learn from corrections: a word you fix goes into your dictionary | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/54 |
 | 93 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #52: Floating button: hover hints on talk, record and mic | 4 | provisional | https://github.com/topc-social/phusphus-tasks/issues/52 |
 | 94 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #52: Floating button: hover hints on talk, record and mic | 346 | provisional | https://github.com/kamal0808/phusphus/pull/53 |
+| 95 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #55: Long dictations lose their last words | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/55 |
+| 96 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #55: Long dictations lose their last words | 792 | provisional | https://github.com/kamal0808/phusphus/pull/55 |
