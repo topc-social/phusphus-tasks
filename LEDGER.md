@@ -120,3 +120,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 112 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #68: Mics plugged in after launch don't show in the floating button's list | 792 | provisional | https://github.com/topc-social/phusphus-tasks/issues/68 |
 | 113 | 2026-11-24 | Kamal Khatwani | Idea (1%) for #69: The live-words pill sticks to the floating bar and moves with it | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/69 |
 | 114 | 2026-11-24 | Kamal Khatwani (via Claude) | Work (99%) on #69: The live-words pill sticks to the floating bar and moves with it | 792 | provisional | https://github.com/topc-social/phusphus-tasks/issues/69 |
+| 115 | 2026-11-24 | Kamal Khatwani | Idea (1%) for #71: On a busy Mac, paste puts in an old clipboard (an earlier dictation) | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/71 |
+| 116 | 2026-11-24 | Kamal Khatwani (via Claude) | Work (99%) on #71: On a busy Mac, paste puts in an old clipboard (an earlier dictation) | 792 | provisional | https://github.com/topc-social/phusphus-tasks/issues/71 |
