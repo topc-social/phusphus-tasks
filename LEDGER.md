@@ -124,3 +124,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 116 | 2026-11-24 | Kamal Khatwani (via Claude) | Work (99%) on #71: On a busy Mac, paste puts in an old clipboard (an earlier dictation) | 792 | provisional | https://github.com/topc-social/phusphus-tasks/issues/71 |
 | 117 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #77: Cleanup sees your whole dictionary, not just the first 6,000 characters | 4 | provisional | https://github.com/topc-social/phusphus-tasks/issues/77 |
 | 118 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on #77: Cleanup sees your whole dictionary, not just the first 6,000 characters | 346 | provisional | https://github.com/kamal0808/phusphus/pull/69 |
+| 119 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #75: Listening pill shows just above the mouse cursor | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/75 |
+| 120 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on #75: Listening pill shows just above the mouse cursor | 792 | provisional | https://github.com/topc-social/phusphus-tasks/issues/75 |
