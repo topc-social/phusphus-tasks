@@ -148,3 +148,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 140 | 2026-11-27 | Kamal Khatwani | Work (99%) on #83: Live words show at the text box you're typing in, not the mouse | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/76 |
 | 141 | 2026-11-27 | Kamal Khatwani | Correction to row 135: the idea for #85 was Pulkit's (he spelled "Alleve" out loud while testing), not Kamal's | −8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/85 |
 | 142 | 2026-11-27 | Pulkit Singhal | Idea (1%) for #85: Spell a word out loud and Phusphus learns it | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/85 |
+| 143 | 2026-11-27 | Kamal Khatwani | Correction to row 71: the idea for #42 (record a talk or call) was Arun's, not Kamal's | −40 | provisional | https://github.com/topc-social/phusphus-tasks/issues/42 |
+| 144 | 2026-11-27 | Arun Radhakrishnan | Idea (1%) for #42: Record a conversation or call, get the transcript with who said what | 40 | provisional | https://github.com/topc-social/phusphus-tasks/issues/42 |
