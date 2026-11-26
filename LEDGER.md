@@ -136,3 +136,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 128 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on #80: Mic turns off when dictation can't reconnect | 792 | provisional | https://github.com/topc-social/phusphus-tasks/issues/80 |
 | 129 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #81: Every Phusphus recording becomes a Claude work-queue item | 12 | provisional | https://github.com/topc-social/phusphus-tasks/issues/81 |
 | 130 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on #81: Every Phusphus recording becomes a Claude work-queue item | 1,188 | provisional | https://github.com/topc-social/phusphus-tasks/issues/81 |
+| 131 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #74: Recordings stop by themselves after 1 minute of silence | 8 | provisional | https://github.com/kamal0808/phusphus/pull/68 |
+| 132 | 2026-11-27 | Kamal Khatwani | Work (99%) on #74: Recordings stop by themselves after 1 minute of silence | 792 | provisional | https://github.com/kamal0808/phusphus/pull/68 |
