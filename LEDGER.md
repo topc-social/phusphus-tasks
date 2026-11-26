@@ -132,3 +132,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 124 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on #78: Talk by pressing left + right mouse buttons together | 792 | provisional | https://github.com/kamal0808/phusphus/pull/72 |
 | 125 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #79: AGENTS.md: tell a contributor's AI how work earns Neki | 4 | provisional | https://github.com/kamal0808/phusphus/pull/73 |
 | 126 | 2026-11-26 | Kamal Khatwani | Work (99%) on #79: AGENTS.md: tell a contributor's AI how work earns Neki | 346 | provisional | https://github.com/kamal0808/phusphus/pull/73 |
+| 127 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #80: Mic turns off when dictation can't reconnect | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/80 |
+| 128 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on #80: Mic turns off when dictation can't reconnect | 792 | provisional | https://github.com/topc-social/phusphus-tasks/issues/80 |
