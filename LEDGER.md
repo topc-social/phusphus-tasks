@@ -146,3 +146,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 138 | 2026-11-27 | Kamal Khatwani | Work (99%) on #86: Release Phusphus 0.13 | 792 | provisional | https://github.com/kamal0808/phusphus/pull/79 |
 | 139 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #83: Live words show at the text box you're typing in, not the mouse | 12 | provisional | https://github.com/kamal0808/phusphus/pull/76 |
 | 140 | 2026-11-27 | Kamal Khatwani | Work (99%) on #83: Live words show at the text box you're typing in, not the mouse | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/76 |
+| 141 | 2026-11-27 | Kamal Khatwani | Correction to row 135: the idea for #85 was Pulkit's (he spelled "Alleve" out loud while testing), not Kamal's | −8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/85 |
+| 142 | 2026-11-27 | Pulkit Singhal | Idea (1%) for #85: Spell a word out loud and Phusphus learns it | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/85 |
