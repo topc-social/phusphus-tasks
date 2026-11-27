@@ -162,3 +162,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 154 | 2026-11-27 | Kamal Khatwani | Work (99%) on #93: Test on-device speech models on Kamal's voice: Parakeet Ultra vs Nemotron 3.5 Streaming | 3,960 | provisional | https://github.com/kamal0808/phusphus/pull/84 |
 | 155 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #94: Hear you on the Mac: Parakeet Ultra speech-to-text, free and unlimited | 40 | provisional | https://github.com/kamal0808/phusphus/pull/85 |
 | 156 | 2026-11-27 | Kamal Khatwani | Work (99%) on #94: Hear you on the Mac: Parakeet Ultra speech-to-text, free and unlimited | 3,960 | provisional | https://github.com/kamal0808/phusphus/pull/85 |
+| 157 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #95: Release Phusphus 0.15: hear you on the Mac | 8 | provisional | https://github.com/kamal0808/phusphus/pull/86 |
+| 158 | 2026-11-27 | Kamal Khatwani | Work (99%) on #95: Release Phusphus 0.15: hear you on the Mac | 792 | provisional | https://github.com/kamal0808/phusphus/pull/86 |
