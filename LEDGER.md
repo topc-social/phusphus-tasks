@@ -152,3 +152,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 144 | 2026-11-27 | Arun Radhakrishnan | Idea (1%) for #42: Record a conversation or call, get the transcript with who said what | 40 | provisional | https://github.com/topc-social/phusphus-tasks/issues/42 |
 | 145 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #90: See your past recordings in the Phusphus window | 8 | provisional | https://github.com/kamal0808/phusphus/pull/81 |
 | 146 | 2026-11-27 | Kamal Khatwani | Work (99%) on #90: See your past recordings in the Phusphus window | 792 | provisional | https://github.com/kamal0808/phusphus/pull/81 |
+| 147 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #87: Remember what Phusphus misheard and fix it next time | 12 | provisional | https://github.com/kamal0808/phusphus/pull/82 |
+| 148 | 2026-11-27 | Kamal Khatwani | Work (99%) on #87: Remember what Phusphus misheard and fix it next time | 1,188 | provisional | https://github.com/kamal0808/phusphus/pull/82 |
