@@ -158,3 +158,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 150 | 2026-11-27 | Pulkit Singhal | Idea (1%) for #84: Holding the key in the first-run 'Try it' box does nothing (bug report) | 8 | provisional | https://github.com/topc-social/phusphus-tasks/issues/84 |
 | 151 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #92: Release Phusphus 0.14 | 8 | provisional | https://github.com/kamal0808/phusphus/pull/83 |
 | 152 | 2026-11-27 | Kamal Khatwani | Work (99%) on #92: Release Phusphus 0.14 | 792 | provisional | https://github.com/kamal0808/phusphus/pull/83 |
+| 153 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #93: Test on-device speech models on Kamal's voice: Parakeet Ultra vs Nemotron 3.5 Streaming | 40 | provisional | https://github.com/kamal0808/phusphus/pull/84 |
+| 154 | 2026-11-27 | Kamal Khatwani | Work (99%) on #93: Test on-device speech models on Kamal's voice: Parakeet Ultra vs Nemotron 3.5 Streaming | 3,960 | provisional | https://github.com/kamal0808/phusphus/pull/84 |
